@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlappyBird</string>
+    <string name="start_flappy_msg">Start Game</string>
+</resources>
